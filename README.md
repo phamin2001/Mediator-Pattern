@@ -1,1 +1,1 @@
-# Mediator-Pattern
+# Mediator Pattern
